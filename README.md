@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 🎓 I'm a Computer Science student passionate about **Full Stack Development** and **Data Science**.  
-💼 Actively looking for **SDE/Internship opportunities** to build real-world impactful solutions.  
+💼 Actively looking for **Data science,SDE/Internship opportunities** to bbuildreal-world impactful solutions.  
 🌱 Currently learning: Machine Learning, Flask, React, SQL  
 📍 Dreaming big: To work at **Google** and contribute to cutting-edge technologies.  
 
