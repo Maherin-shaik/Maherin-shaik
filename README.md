@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maherin Shaik — aka @Maherin-shaik
+# 👋 Hi there, I'm Maherin Shaik
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Maherin-shaik)
 
