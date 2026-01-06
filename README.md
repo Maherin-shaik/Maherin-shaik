@@ -4,46 +4,69 @@
 
 ## 🚀 About Me
 
-🎓 I'm a Computer Science student passionate about **Full Stack Development** and **Data Science**.  
-💼 Actively looking for **Data science,SDE/Internship opportunities** to bbuildreal-world impactful solutions.  
-🌱 Currently learning: Machine Learning, Flask, React, SQL  
-📍 Dreaming big: To work at **Google** and contribute to cutting-edge technologies.  
+🎓 Final-year Computer Science student with a strong interest in **Data Science, Machine Learning, and Full Stack Developmen**t.
+💼 Actively seeking **Data Science / SDE Internship** opportunities to work on real-world, impactful problems.
+🧠 Hands-on experience in **ML projects, RAG-based systems, Streamlit apps, and full-stack applications**.
+🌱 Currently strengthening skills in Advanced **ML, NLP, RAG pipelines, Flask, React, SQL**.
+🎯 Career Goal: Become a **Data Engineer / ML Engineer** and work at Google or similar product-based companies. 
 
 ---
 
-## 💡 Projects
+## 💡 Featured Projects
+### 🔹 Machine Learning & Data Science
 
-Here are a few highlights of what I’ve been building:
+- 🧠 Autism Prediction System
+ML-based web app using Flask, SMOTE, EDA, and Random Forest.
+Performed feature encoding, outlier handling, hyperparameter tuning, and model persistence.
 
-- 🔥 **Amazon Clone** — HTML & CSS frontend clone with responsive layout  
-- ❌ **Tic Tac Toe** — Classic game with logic built in JavaScript  
-- ✊ **Rock Paper Scissors** — Simple JS project showcasing game logic and UI interaction  
-- 📓 **MyNote (Todo List)** — Full-stack task manager using PHP, MySQL, Bootstrap  
-- 🧮 **Calculator** — Clean UI and interactive logic using JS  
-- 🧠 **Autism Prediction** — ML project using Flask + SMOTE + RandomForest  
+- 🎬 Sentiment Analysis (IMDB Reviews)
+NLP project using Bag of Words, TF-IDF, Logistic Regression for binary sentiment classification.
+
+- 📈 Tableau Sales & Customer Dashboard
+Interactive dashboards with KPIs, filters, and business insights, published on Tableau Public.
+
+### 🔹 RAG & GenAI
+
+- 🤖 RAG-Based Chatbot
+Retrieval-Augmented Generation chatbot that answers student queries using document retrieval + LLM-based responses, deployed with Streamlit.
+
+- 🖼️ AI Image Generation App
+Web application for generating images from text prompts using pre-trained generative models, with a simple and interactive UI.
+
+### 🔹 Full Stack & Web Development
+
+- 📓 MyNote (Todo List App)
+Full-stack application using PHP, MySQL, Bootstrap for task management.
+
+- 🛒 Amazon Clone
+Responsive frontend clone using HTML & CSS.
+
+- 🎮 Tic Tac Toe / Rock Paper Scissors
+JavaScript-based games focusing on logic, state management, and UI interaction.
+
+- 🧮 Calculator App
+Interactive calculator built with HTML, CSS, JavaScript.
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `C++` `JavaScript` `HTML` `CSS` `SQL`
+💻 **Languages**
 
-**Frameworks & Libraries:**  
-`Flask` `Bootstrap` `React (learning)` `pandas` `numpy` `matplotlib` `scikit-learn`
+`Python` `C` `JavaScript` `HTML` `CSS` `SQL`
 
-**Tools:**  
-`Git` `GitHub` `VS Code` `MySQL` `Jupyter Notebook` `Google Colab`
+📚 **Frameworks & Libraries**
 
----
+`Flask` `Streamlit` `React`(basic) `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn` `XGBoost`
 
-## 📈 GitHub Stats
+🧠 **Core Concepts**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maherin-shaik&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maherin-shaik&theme=radical" width="48%" />
-</p>
+`Machine Learning` `EDA` `Feature Engineering` `NLP` `TF-IDF` `Model Evaluation` `Hyperparameter Tuning` `REST APIs`
+
+🛠️ **Tools & Platforms**
+
+`Git` `GitHub` `VS Code` `MySQL` `Jupyter Notebook` `Google Colab` `Tableau` `Kaggle`
 
 ---
 
@@ -54,4 +77,4 @@ Here are a few highlights of what I’ve been building:
 
 ---
 
-_“Striving to become a better engineer, one commit at a time.”_
+_“Learning, building, and improving—one project at a time.”_
